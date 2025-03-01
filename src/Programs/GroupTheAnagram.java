@@ -9,7 +9,7 @@ public class GroupTheAnagram {
 
 	public static void main(String[] args) {
 		
-		String[] words = {"eat", "tea", "tan", "ate", "nat", "bat"};
+		String[] words = {"eat", "tea", "tan", "ate", "nat", "bat", "tab"};
 		
 		HashMap<String, List<String>> map  = new HashMap<String, List<String>>();
 		

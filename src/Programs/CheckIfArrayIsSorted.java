@@ -11,6 +11,7 @@ public class CheckIfArrayIsSorted {
 			if(arr[i] > arr[i+1]) {
 				isSort = false;
 			}
+			//return;
 		}
 		System.out.println(isSort);
 

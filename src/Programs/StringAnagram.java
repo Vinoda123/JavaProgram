@@ -7,7 +7,7 @@ public class StringAnagram {
 	public static void main(String[] args) {
 		
 		String S1 = "night";
-		String S2 = "thingw";
+		String S2 = "thing";
 		
 		char [] arr1 = S1.toCharArray();
 		char [] arr2 = S2.toCharArray();
